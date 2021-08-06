@@ -1,1 +1,1 @@
-# paint-github-11c5d
+#The main idea is to use web sockets through C++
